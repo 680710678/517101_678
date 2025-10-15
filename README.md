@@ -2,4 +2,6 @@
 
 680710678 Chayapon Nitklang
 
-## ภาษาซี
+## ภาษา C
+
+## ภาษา Java
